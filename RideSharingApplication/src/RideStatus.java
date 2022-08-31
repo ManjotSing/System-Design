@@ -1,0 +1,1 @@
+public enum RideStatus {IDLE, CREATED, COMPLETED, WITHDRAWN}
